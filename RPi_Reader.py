@@ -31,7 +31,7 @@ import os
 #have a method for checking if the usb chords are plugged in correctly
 #method would write serial command and check for correct response from analyzer
 #def check_serial():
-        
+        o88uho8uho8uho8uh
 # Function for converting decimal to binary 
 def float_bin(number, places = 3): 
     whole, dec = str(number).split(".")  
